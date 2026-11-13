@@ -6,7 +6,7 @@ public class TestNGpriority {
 
     @Test(priority = 1)
     public void launchBrowser() {
-        System.out.println("Launch Browser");
+        System.out.println("Launch Browsers");
     }
 
     @Test(priority = 2)
